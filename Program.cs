@@ -7,7 +7,7 @@ namespace Fibonacci
         static void Main(string[] args)
         {
           
-            Console.WriteLine("The fibonacci result for index of 8 is " + Recursion(6));
+            Console.WriteLine("The fibonacci result for index of 6 is " + Recursion(6));
             
         }
 
